@@ -201,7 +201,7 @@ sections:
       - type: Label
         label: Unreal
       - type: Label
-        label: Swift
+        label: Unity
   - type: DividerSection
     styles:
       self:
