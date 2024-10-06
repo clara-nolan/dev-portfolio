@@ -193,7 +193,7 @@ sections:
       - type: Label
         label: GLSL/HLSL
       - type: Label
-        label: Next.js
+        label: OpenGL
       - type: Label
         label: Netlify
       - type: Label
