@@ -15,9 +15,9 @@ sections:
     backgroundSize: full
     title: Welcome to Clara's Portfolio!
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Hi there, I'm Clara Nolan. I am a current student at the University of
+      Pennsylvania studying Computer Science & Design, where I specialize in
+      Computer Graphics.
     styles:
       self:
         height: auto
