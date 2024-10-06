@@ -84,7 +84,7 @@ sections:
         actions:
           - type: Link
             label: ARE.NA
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.are.na/clara-nolan/channels'
         styles:
           self:
             textAlign: left
