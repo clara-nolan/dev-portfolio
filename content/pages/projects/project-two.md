@@ -4,7 +4,7 @@ title: Voxel Engine
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: A multi-threaded recreation of Minecraft using C++ and OpenGL
+description: A multi-threaded recreation of Minecraft made using C++ and OpenGL
 featuredImage:
   type: ImageBlock
   url: /images/minecraft.png
