@@ -17,7 +17,8 @@ sections:
     subtitle: >-
       Hi there, I'm Clara Nolan. I am a current student at the University of
       Pennsylvania studying Computer Science & Design, where I specialize in
-      Computer Graphics.
+      Computer Graphics. I am passionate about accessibility within the
+      games/animation field, along with technical art and gameplay programming.
     styles:
       self:
         height: auto
