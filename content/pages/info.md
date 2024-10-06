@@ -187,7 +187,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: C++
+        label: C++ & C#
       - type: Label
         label: Python
       - type: Label
