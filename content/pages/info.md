@@ -14,13 +14,13 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >
-      Outside of programming and digital design work, I am Penn Association for
-      Gender Equity's Marketing chair, where I am the webmaster and I run our
-      social media presence (come say hi @penngenderequity). In my spare time, I
-      am involved with open-source efforts for projects like MaterialX,
-      organized by the Academy Software Foundation, and the voxel game Veloren.
-      I also enjoy being a part of Lime Connect and other groups that strive to
-      build community with other neurodivergent folks.
+      Outside of work, I am Penn Association for Gender Equity's Marketing
+      chair, where I am the webmaster and I run our social media presence (come
+      say hi @penngenderequity). In my spare time, I am involved with
+      open-source efforts for projects like MaterialX, organized by the Academy
+      Software Foundation, and the voxel game Veloren. I also enjoy being a part
+      of Lime Connect and other groups that strive to build community with other
+      neurodivergent folks.
     media:
       type: ImageBlock
       url: /images/me.jpg
