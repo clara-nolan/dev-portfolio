@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/minecraft.png
-  altText: Project thumbnail image
+  altText: 'A red-yellow gradient in the sky, with a silhouette of mountains.'
 media:
   type: ImageBlock
   url: /images/bg2.jpg
