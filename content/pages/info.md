@@ -75,7 +75,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
+            label: LinkedIn
             url: 'https://twitter.com/'
         styles:
           self:
