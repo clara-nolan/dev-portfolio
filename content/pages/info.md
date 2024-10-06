@@ -237,26 +237,22 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   Unity Developer @ Digital Scorpion Interactive
 
-          **2018-2021**
+          **2022-2023**
 
-          * fullstack at this startup
+          *   Video Game Team Intern @ A Free Bird
+          *   Computer Graphics Tutor, Freelance & @ Varsity Tutors
 
-          **2015**
+          **2021-2022**
 
-          * senior front-end at this place
+          *   Computational Anthropology Research Assistant
 
-          **2013**
 
-          * intern developer at a big company
 
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
