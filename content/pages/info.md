@@ -83,7 +83,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: LinkedIn
+            label: ARE.NA
             url: 'https://www.linkedin.com/'
         styles:
           self:
