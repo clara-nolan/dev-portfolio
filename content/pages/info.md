@@ -99,7 +99,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
+            label: Shadertoy
             url: 'https://discord.com/'
         styles:
           self:
