@@ -100,7 +100,7 @@ sections:
         actions:
           - type: Link
             label: Shadertoy
-            url: 'https://discord.com/'
+            url: 'https://www.shadertoy.com/user/kunstpleb'
         styles:
           self:
             textAlign: left
