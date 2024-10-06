@@ -195,7 +195,7 @@ sections:
       - type: Label
         label: OpenGL
       - type: Label
-        label: Netlify
+        label: Houdini
       - type: Label
         label: Pancakes
       - type: Label
