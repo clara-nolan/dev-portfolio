@@ -23,7 +23,7 @@ sections:
       build community with other neurodivergent folks.
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/me.jpg
       altText: Hero image
     styles:
       self:
