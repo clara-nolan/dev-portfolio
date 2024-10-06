@@ -68,7 +68,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/clara-nolan'
         styles:
           self:
             textAlign: left
