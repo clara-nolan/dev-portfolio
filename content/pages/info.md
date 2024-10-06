@@ -76,7 +76,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://twitter.com/'
+            url: 'https://www.linkedin.com/in/clara-nolan/'
         styles:
           self:
             textAlign: left
