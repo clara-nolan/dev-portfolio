@@ -13,14 +13,17 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      Outside of programming and digital design work, I am Penn Association for
+      Gender Equity's Marketing chair, where I am the webmaster and I run our
+      social media presence (come say hi @penngenderequity). In my spare time, I
+      am involved with open-source efforts for projects like MaterialX,
+      organized by the Academy Software Foundation, and the voxel game Veloren.
+      I also enjoy being a part of Lime Connect and other groups that strive to
+      build community with other neurodivergent folks.
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/me.jpg
       altText: Hero image
     styles:
       self:
@@ -58,65 +61,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-f
     items:
@@ -124,15 +68,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://github.com/clara-nolan'
         styles:
           self:
             textAlign: left
@@ -140,7 +76,15 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/in/clara-nolan/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: ARE.NA
+            url: 'https://www.are.na/clara-nolan/channels'
         styles:
           self:
             textAlign: left
@@ -148,23 +92,20 @@ sections:
         actions:
           - type: Link
             label: CodePen
-            url: 'https://codepen.io/'
+            url: 'https://codepen.io/clara-nolan/pens/public'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
-            url: 'https://discord.com/'
+            label: Shadertoy
+            url: 'https://www.shadertoy.com/user/kunstpleb'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
+        actions: []
         styles:
           self:
             textAlign: left
@@ -202,26 +143,65 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: MediaGallerySection
+    colors: colors-f
+    subtitle: 'I worked with these folks:'
+    images:
+      - type: ImageBlock
+        url: /images/dsi.jpg
+        altText: Logo one
+        caption: Logo one
+      - type: ImageBlock
+        url: /images/varsity_tutors_llc_logo.jpg
+        altText: Logo two
+        caption: Varsity Tutors
+      - type: ImageBlock
+        url: /images/freebird.jpg
+        altText: Logo three
+        caption: Logo three
+    spacing: 3
+    columns: 5
+    aspectRatio: auto
+    showCaption: false
+    enableHover: false
+    styles:
+      self:
+        width: wide
+        height: auto
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
   - type: LabelsSection
     colors: colors-f
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: C++ & C#
       - type: Label
-        label: React
+        label: Python
       - type: Label
-        label: Microsoft Office
+        label: GLSL/HLSL
       - type: Label
-        label: Next.js
+        label: OpenGL
       - type: Label
-        label: Netlify
+        label: Houdini
       - type: Label
-        label: Pancakes
+        label: Maya
       - type: Label
-        label: C++
+        label: Unreal
       - type: Label
-        label: Swift
+        label: Unity
   - type: DividerSection
     styles:
       self:
@@ -239,7 +219,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [clara.isobel.nolan@gmail.com](mailto:clara.isobel.nolan@gmail.com)
   - type: DividerSection
     styles:
       self:
@@ -257,26 +237,22 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   Unity Developer @ Digital Scorpion Interactive
 
-          **2018-2021**
+          **2022-2023**
 
-          * fullstack at this startup
+          *   Video Game Team Intern @ A Free Bird
+          *   Computer Graphics Tutor, Freelance & @ Varsity Tutors
 
-          **2015**
+          **2021-2022**
 
-          * senior front-end at this place
+          *   Computational Anthropology Research Assistant
 
-          **2013**
 
-          * intern developer at a big company
 
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
