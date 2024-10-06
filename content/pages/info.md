@@ -92,7 +92,7 @@ sections:
         actions:
           - type: Link
             label: CodePen
-            url: 'https://codepen.io/'
+            url: 'https://codepen.io/clara-nolan/pens/public'
         styles:
           self:
             textAlign: left
