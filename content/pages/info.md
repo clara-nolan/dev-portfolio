@@ -219,7 +219,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [clara.isobel.nolan@gmail.com](mailto:thisismyemail.@myemail.me)
+      [clara.isobel.nolan@gmail.com](mailto:clara.isobel.nolan@gmail.com)
   - type: DividerSection
     styles:
       self:
