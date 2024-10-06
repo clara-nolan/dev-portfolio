@@ -191,7 +191,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: Microsoft Office
+        label: GLSL/HLSL
       - type: Label
         label: Next.js
       - type: Label
