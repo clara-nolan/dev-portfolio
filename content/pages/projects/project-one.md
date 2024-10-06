@@ -4,7 +4,7 @@ title: Custom Unreal Shaders
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: Toon material and outline post-processing effect made in Unreal
+description: Toon & outline shaders in Unreal
 featuredImage:
   type: ImageBlock
   url: /images/toonshader.jpg
