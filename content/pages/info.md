@@ -72,7 +72,7 @@ sections:
       - type: ImageBlock
         url: /images/varsity_tutors_llc_logo.jpg
         altText: Logo two
-        caption: Logo two
+        caption: Varsity Tutors
       - type: ImageBlock
         url: /images/freebird.jpg
         altText: Logo three
