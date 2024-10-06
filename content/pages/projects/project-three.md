@@ -7,7 +7,7 @@ client: Awesome client
 description: An offline path tracer made using OpenGL and C++
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/image_2024-10-05_233643711.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
