@@ -23,7 +23,7 @@ sections:
       neurodivergent folks.
     media:
       type: ImageBlock
-      url: /images/me.jpg
+      url: /images/FullSizeRender.jpg
       altText: Hero image
     styles:
       self:
