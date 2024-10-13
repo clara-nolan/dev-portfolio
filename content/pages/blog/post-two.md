@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 date: '2024-08-02'
 author: content/data/team/doris-soto.json
-excerpt: Reflections on materials I want to experiment with
+excerpt: Reflections on materials I want to experiment wi
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image2.jpg
