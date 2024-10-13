@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: PBR Path Tracer
+title: Dancing Cube
 date: '2022-01-22'
 client: Awesome client
 description: An offline path tracer made using OpenGL and C++
