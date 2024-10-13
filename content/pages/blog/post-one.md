@@ -4,7 +4,7 @@ title: To See and Be Seen in the Gaming/VFX/Animation Industry
 colors: colors-a
 date: '2024-06-30'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: Reflections on accessibility in the industry
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
