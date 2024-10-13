@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Dancing Cube
+title: Houdini Jellyfish
 date: '2024-08-31'
 client: Awesome client
 description: >-
