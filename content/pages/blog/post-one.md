@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: To See and Be See in the Gaming/VFX/Animation Industry
+title: To See and Be Seen in the Gaming/VFX/Animation Industry
 colors: colors-a
 date: '2024-06-30'
 author: content/data/team/doris-soto.json
