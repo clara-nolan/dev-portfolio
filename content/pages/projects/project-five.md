@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Houdini Jellyfish
-date: '2024-09-30'
+date: '2024-10-30'
 client: Awesome client
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
