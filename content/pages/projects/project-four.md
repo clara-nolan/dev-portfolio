@@ -1,20 +1,18 @@
 ---
 type: ProjectLayout
-title: Dancing Cube
+title: Bauhaus Invaders
 date: '2024-08-31'
-client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+client: ''
+description: A recreation of the classic game Space Invaders in Unity3D and Unreal
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/vaders.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/vaders.png
   altText: Project image
   caption: Caption of the image
   elementId: ''
@@ -28,3 +26,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+Link to Unreal Gameplay: <https://www.youtube.com/watch?v=E8xU1pAxuZk&ab_channel=ClaraNolan>
+
+
+Link to Unity Gameplay: <https://www.youtube.com/watch?v=j2NXRaq-X38&ab_channel=ClaraNolan>
