@@ -64,9 +64,9 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
+                "label": "Resume",
+                "url": "https://docs.google.com/document/d/13_B3paOyWhsSb5PF7QR8VTHv1tiP-XXY/edit",
+                "altText": "Resume"
             },
             {
                 "type": "Link",
