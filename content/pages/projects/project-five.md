@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Flames of Fury
 date: '2024-10-23'
 client: ''
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: A Breath of the Wild Inspired Sidescroller
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
