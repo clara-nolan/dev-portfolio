@@ -6,7 +6,7 @@ client: ''
 description: A recreation of the classic game Space Invaders in Unity3D and Unreal
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/vaders.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
