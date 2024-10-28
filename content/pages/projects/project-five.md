@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Houdini Jellyfish
+title: Flames of Fury
 date: '2024-10-23'
 client: Awesome client
 description: >-
