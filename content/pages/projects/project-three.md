@@ -3,7 +3,7 @@ type: ProjectLayout
 title: PBR Path Tracer
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: ''
 description: An offline path tracer made using OpenGL and C++
 featuredImage:
   type: ImageBlock
