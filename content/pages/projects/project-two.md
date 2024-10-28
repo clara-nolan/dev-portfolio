@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Voxel Engine
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: ''
 description: A multi-threaded recreation of Minecraft made using C++ and OpenGL
 featuredImage:
   type: ImageBlock
