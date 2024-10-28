@@ -28,9 +28,10 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+Link to Gameplay Video: <https://www.youtube.com/watch?v=qjI3h8bGNGo&ab_channel=ClaraNolan>
 
 
-Flames of Fury is a thrilling physics-based platform game in which you play as a fearless tomb raider escaping the fiery inferno that roils within ancient ruins. You must detonate bombs to destroy obstacles in your path, strategically placing them as you navigate the perilous journey ahead. Careful though! A fiery inferno advances more and more as you destroy objects.
+Flames of Fury is a thrilling physics-based platform game in which you play as a fearless tomb raider escaping the fiery inferno that roils within ancient ruins. You must detonate bombs to destroy obstacles in your path, strategically placing them as you navigate the perilous journey ahead. Careful though! A fiery inferno advances more and more as you destroy objects. 
 
 This game targets fast-paced platformer enthusiasts, quick thinkers, and action-puzzle enjoyers. Each level can be played in a different way. The strategy and non-linear exploration involved allows the game to be highly replayable.  It’s up to the player to discover the fastest path. 
 
@@ -72,7 +73,6 @@ Player Goals and Objectives
 
 *   There is no loss condition, since if the player dies they will respawn at the furthest safe point, incurring a time penalty
 
-
 Main Rules and Procedures
 
 *   Operational Rules
@@ -105,7 +105,6 @@ Main Rules and Procedures
 
 *   \[ESC] will display the current timer, resume, restart, and exit
 
-
 Player Resources
 
 *   The player’s primary resource are their explosives, which they use to control their momentum and reshape the environment towards their desired path
@@ -115,7 +114,6 @@ Player Resources
 *   Powerups that impact explosive radius and strength are resources that can dramatically increase the player’s speed
 
 *   Non-destructible objects are resources in that their momentum can be somewhat manipulated by explosions, and the player’s momentum can be manipulated through an accelerated non-destructible object
-
 
 Boundaries and Constraints
 
