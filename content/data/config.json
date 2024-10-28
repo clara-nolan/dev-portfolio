@@ -21,7 +21,8 @@
             {
                 "type": "Link",
                 "label": "Resume",
-                "url": ""
+                "url": "",
+                "altText": "Clara Nolan Rse"
             }
         ],
         "socialLinks": [
