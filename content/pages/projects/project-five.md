@@ -6,7 +6,7 @@ client: ''
 description: A Breath of the Wild Inspired Sidescroller
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/flamesOfFury.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
