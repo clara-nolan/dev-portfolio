@@ -11,7 +11,7 @@ featuredImage:
   altText: 'A red-yellow gradient in the sky, with a silhouette of mountains.'
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/cubes.png
   altText: Project image
 ---
 
