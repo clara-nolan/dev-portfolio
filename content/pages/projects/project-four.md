@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Bauhaus Invaders
 date: '2024-08-31'
 client: ''
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: A recreation of the classic game SpaceInvaders in Unity3D and Unreal
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
