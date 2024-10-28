@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Bauhaus Invaders
 date: '2024-08-31'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
