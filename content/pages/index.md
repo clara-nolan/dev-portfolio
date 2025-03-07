@@ -1,3 +1,4 @@
+---
 type: PageLayout
 title: Home
 colors: colors-a
@@ -46,29 +47,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - type: VideoSection
-    colors: colors-f
-    elementId: youtube-videos
-    videos:
-      - url: https://www.youtube.com/embed/VIDEO_ID_1
-      - url: https://www.youtube.com/embed/VIDEO_ID_2
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-12
-          - mb-12
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      videos:
-        textAlign: center
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -161,3 +139,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
+---
